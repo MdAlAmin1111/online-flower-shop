@@ -151,6 +151,9 @@
 }
 
 @media screen and (max-width: 992px){
+    .flowers-section{
+        padding: 5px;
+    }
     .flowers-images{
         flex-direction: column;
         gap: 50px;
