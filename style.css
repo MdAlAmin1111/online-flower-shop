@@ -152,6 +152,8 @@
 
 @media screen and (max-width: 992px){
     .flowers-section{
+        margin-left: 20px;
+        margin-right: 20px;
         padding: 5px;
     }
     .flowers-images{
